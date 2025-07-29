@@ -1,4 +1,9 @@
-## Hi there 👋
+halloww👋
+<!-- Banner Animasi -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:ff9068&height=200&section=header&text=Aica%20Lala&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+# 🌋🚀 Seperti gunung berapi, diam membangun energi.  
+## Setiap project kecil adalah roket dengan mimpi besar.
 
 <!--
 **AisyahNura/AisyahNura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
