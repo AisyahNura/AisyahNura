@@ -1,8 +1,8 @@
 halloww👋
 <!-- Banner Animasi -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:ff9068&height=200&section=header&text=Aisyah%20Nura&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:ff65a3,100:7afcff&height=200&section=header&text=AisyahNura&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 🌋🚀 Seperti gunung berapi, diam membangun energi.  
+# 🌋🚀 Seperti gunung berapi, tenang tapi kadang meletup bersama bug.  
 ## Setiap project kecil adalah roket dengan mimpi besar.
 
 ---
@@ -14,5 +14,3 @@ halloww👋
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
----
